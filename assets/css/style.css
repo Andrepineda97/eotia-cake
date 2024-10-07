@@ -453,7 +453,7 @@ h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("../img/Cake-choco.jpg") top center;
+  background: url("../img/Cake-choco.webp") top center;
   background-size: cover;
   position: relative;
   padding: 0;
@@ -596,7 +596,7 @@ h6 {
   #hero {
     width: 100%;
     height: 100vh;
-    background: url("../img/Cake-choco.jpg") top center;
+    background: url("../img/Cake-choco.webp") top center;
     background-size: cover;
     position: relative;
     padding: 0;
@@ -1173,7 +1173,7 @@ a {
 # celebralo
 --------------------------------------------------------------*/
 .events {
-  background: url(../img/celebralo.jpg) center center no-repeat;
+  background: url(../img/celebralo.webp) center center no-repeat;
   background-size: cover;
   position: relative;
 }
